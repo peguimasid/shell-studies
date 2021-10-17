@@ -1,5 +1,7 @@
+#!/bin/sh
 
-# `` -> get the output of command
-MYNAME=`TEDT="hfiudj" echo $TEDT`
+MYNAME=`
+TEDT="hufidjfjkdl" 
+echo $TEDT`
+
 echo $MYNAME
-
