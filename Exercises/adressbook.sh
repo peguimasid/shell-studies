@@ -1,5 +1,6 @@
 search() {
   # Find records with parameter field:parameter given
+  # Ex: phone:627832 | id:192
 }
 
 add() {
